@@ -1,0 +1,10 @@
+fpga cpld边学边练
+
+
+1. 所有配套例程解压后请放到只有字母和数字组成的文件夹路径中。
+
+2. 本书配套的BJ-EPM学习套件官方淘宝店铺链接：http://myfpga.taobao.com/
+
+3. 关于本书的任何问题，可以直接和作者邮件沟通：wuhouhang@gmail.com
+
+
